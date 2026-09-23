@@ -48,6 +48,15 @@ These screenshots come from a live local development build using public YouTube 
 
 ## Workflow
 
+### Optional Stickman Weekly Loop handoff
+
+This adaptation adds a **Stickman PICK** mode in Research for an existing
+35-minute, human-approved episode planning stage. Select an idea and supply a
+linked audience question to download a draft `01_brief.md`. Primary-source
+facts, Scripture, and approval remain manual. The app does not replace the
+4–5 minute Spanish writing, narration, editing, publishing, or analytics loop.
+See [the PICK guide](docs/STICKMAN_PICK.md) for the exact boundary and costs.
+
 The product follows one continuous workflow:
 
 1. **Research**: Search up to 50 public YouTube videos, review the overview, analytics, coverage, and every returned video.
